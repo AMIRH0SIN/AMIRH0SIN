@@ -1,10 +1,6 @@
-{
-  "Visibility": "VISIBLE",
-  "Title": "Teft",
-  "Description": "Test Message",
-  "MainTextButton": "Update",
-  "Cancelable": "false",
-  "CancelButtonText": "Cancel",
-  "DownloadLink": "https://google.com",
-  "Version": "1.1"
-}
+[
+  {
+    "update": "true",
+    "url": "https://youtube.com/c/XpMediaO"
+  }
+]

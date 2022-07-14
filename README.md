@@ -1,6 +1,6 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
+  "Title": "Teft",
   "Description": "Test Message",
   "MainTextButton": "Update",
   "Cancelable": "false",
